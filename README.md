@@ -1,1 +1,1 @@
-# Sierpinski-triangle
+Привет! Эта программа создаёт треугольник Серпинского красные точки это вершины треугольнка синия точка это начальная точка зелёные точки это точки самого фрактала / Hello! This program creates the Sierpinski triangle the red dots are the vertices of the triangle the blue dot is the starting point green dots are the points of the fractal itself
