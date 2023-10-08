@@ -4,8 +4,8 @@
 # clone the repo
 $ git clone https://github.com/EgorSad06/Sierpinski-triangle.git
 
-# change the working directory to sherlock
-$ cd Fraktal_v2.py
+# change the working your directory and write 
+$ Fraktal_v2.py
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
